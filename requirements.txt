@@ -1,4 +1,3 @@
 Flask==1.1.2
 requests
-phonenumbers
-cv2
+opencv-python
